@@ -17,7 +17,7 @@ Run | Read Time (ms) | Tiering Time (ms) | Total Time | Memory Used (MB)
 **Averages:**  
 Read Time: **14570 ms**  
 Tiering Time: **410 ms**  
-Total Time: **14981**
+Total Time: **14981**  
 Memory Consumption: **1275MB**
 
 From these tests it is obvious that the majority of time is spent reading in the large file, and that
